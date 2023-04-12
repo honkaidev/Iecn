@@ -1,0 +1,30 @@
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+            devide {
+                top:0;
+                padding:0;
+                margin:0;
+                background:#1e5799;
+                background:-moz-linear-gradient(left,#1e5799 0,#f300ff 50%,#e0ff00 100%);
+                background:-webkit-gradient(linear,left top,right top,color-stop(0,#1e5799),color-stop(50%,#f300ff),color-stop(100%,#e0ff00));
+                background:-webkit-linear-gradient(left,#1e5799 0,#f300ff 50%,#e0ff00 100%);
+                background:-o-linear-gradient(left,#1e5799 0,#f300ff 50%,#e0ff00 100%);
+                background:-ms-linear-gradient(left,#1e5799 0,#f300ff 50%,#e0ff00 100%);
+                background:linear-gradient(to right,#1e5799 0,#f300ff 50%,#e0ff00 100%);
+                filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#e0ff00', GradientType=1 );
+                height:3px;
+                border-bottom:1px solid #000
+            }
+
+            p{
+                font-size:1.75em;
+                color:#ddd;
+                margin:10px 0 0
+            }
+            </style>
+            <h1>HELLO WORLD!</h1>
+        </div>
+    </foreignObject>
+</svg>
